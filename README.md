@@ -88,10 +88,10 @@ I'm continuously developing my practical skills through hands-on labs, security 
 
 ## 🚀 Featured Project
 
-### 🔐 [Project Name]
+### 🔐 [Network Traffic Analysis]
 
 **Description:**  
-[Briefly describe what the project does, what problem it addresses, and why you built it.]
+[network traffic analysis for analyzing traffic on network.]
 
 **Objectives:**
 
